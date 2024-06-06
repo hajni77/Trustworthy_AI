@@ -1,4 +1,4 @@
-# Trustworthy AI - Credir card approval prediction
+# Trustworthy AI - Credit card approval prediction
 
 data_analysis.ipynb, data_analysis_2.ipynb
 
